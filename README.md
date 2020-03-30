@@ -1,10 +1,10 @@
 # Be The Hero
 
-## Aplicativo desenvolvido durante a semana Omnistack 11.0
+### Aplicativo desenvolvido durante a semana Omnistack 11.0
 
-##  Um exemplo de projeto para ONGs de proteção para os animais
+###  Um exemplo de projeto para ONGs de proteção para os animais
 
-## Aplicativo desenvolvido em NodeJs no backend, React para web e ReactNative para mobile
+### Aplicativo desenvolvido em NodeJs no backend, React para web e ReactNative para mobile
 
 ### Screenshots Web
 
