@@ -7,23 +7,33 @@
 ##### Aplicativo desenvolvido em NodeJs no backend, React para web e ReactNative para mobile
 
 ##### Screenshots Web
-###### Tela login
+
+##### Tela login
+
 <img src="screenshot/frontend/screen-login.png">
+
 <br>
-###### Tela Profile
+
+##### Tela Profile
 <img src="screenshot/frontend/screen-home.png">
+
 <br>
-###### Tela Cadastro de Casos
+
+##### Tela Cadastro de Casos
 <img src="screenshot/frontend/screen-new-incident.png">
 <br>
 
 
 ##### Screenshots Mobile
-###### Splash Screen
+
+##### Splash Screen
 <img src="screenshot/mobile/splash-screen.jpeg">
+
 <br>
-###### Tela Home
+
+##### Tela Home
 <img src="screenshot/mobile/screen-home.jpeg">
 <br>
-###### Tela Detalhe e Contato
+
+##### Tela Detalhe e Contato
 <img src="screenshot/mobile/screen-detail-contact.jpeg">
