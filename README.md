@@ -27,13 +27,13 @@
 ### Screenshots Mobile
 
 #### Splash Screen
-<img src="screenshot/mobile/splash-screen.jpeg">
+<img src="screenshot/mobile/splash-screen.jpeg" width="250px">
 
 <br>
 
 #### Tela Home
-<img src="screenshot/mobile/screen-home.jpeg">
+<img src="screenshot/mobile/screen-home.jpeg" width="250px">
 <br>
 
 #### Tela Detalhe e Contato
-<img src="screenshot/mobile/screen-detail-contact.jpeg">
+<img src="screenshot/mobile/screen-detail-contact.jpeg" width="250px">
